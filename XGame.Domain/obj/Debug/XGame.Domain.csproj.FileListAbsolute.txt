@@ -100,7 +100,6 @@ D:\#Projetos\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
 D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
 D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache
 D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
-D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
 D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
 D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
 D:\#Projetos\XGame2\XGame.Domain\bin\Debug\XGame.Domain.dll
@@ -209,3 +208,4 @@ D:\#Projetos\XGame2\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs
 D:\#Projetos\XGame2\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
 D:\#Projetos\XGame2\XGame.Domain\obj\Debug\XGame.Domain.dll
 D:\#Projetos\XGame2\XGame.Domain\obj\Debug\XGame.Domain.pdb
+D:\#Projetos\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojResolveAssemblyReference.cache

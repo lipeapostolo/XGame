@@ -113,7 +113,6 @@ D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.MapeandoPlatafor
 D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.MapeandoPlataforma4.resources
 D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.GenerateResource.cache
 D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CoreCompileInputs.cache
-D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CopyComplete
 D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.dll
 D:\#Projetos\XGame\XGame.Infra\obj\Debug\XGame.Infra.pdb
 D:\#Projetos\XGame2\XGame.Infra\bin\Debug\XGame.Infra.dll.config
